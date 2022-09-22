@@ -7,6 +7,11 @@ This repo contains resources about data science and CNN
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 - [Deep Learning](https://www.deeplearningbook.org/)
 
+## Youtube Channels
+
+- [Dot CSV](https://youtube.com/playlist?list=PL-Ogd76BhmcBaUXZGPJkmQpLgrBgGZ7v0)
+- [The Independent Code](https://youtube.com/playlist?list=PLQ4osgQ7WN6PGnvt6tzLAVAEMsL3LBqpm)
+
 ## Artificial Neural Networks (ANN)
 
 - [Yann LeCun et al., 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
