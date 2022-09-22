@@ -2,6 +2,11 @@
 
 This repo contains resources about data science and CNN
 
+## Good books
+
+- [An Introduction to Statistical Learning](https://www.statlearning.com/)
+- [Deep Learning](https://www.deeplearningbook.org/)
+
 ## Artificial Neural Networks (ANN)
 
 - [Yann LeCun et al., 1998](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
@@ -18,4 +23,4 @@ This repo contains resources about data science and CNN
 - [Dominik Scherer et al., 2010](https://www.ais.uni-bonn.de/papers/icann2010_maxpool.pdf)
 - [Rob DiPietro, 2016](https://rdipietro.github.io/friendly-intro-to-cross-entropy-loss/)
 
-Last updated: <time>
+Last updated: SEPT/21/2022
